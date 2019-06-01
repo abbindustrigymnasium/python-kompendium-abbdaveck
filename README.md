@@ -1,1 +1,1 @@
-# Här ligger mina filer till Python kompendiumet och Pythin miniprojektet
+# Här ligger mina filer till Python kompendiumet och Python miniprojektet
